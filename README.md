@@ -1,5 +1,7 @@
 # RAG Knowledge Agent
 
+English | [简体中文](./README.zh-CN.md)
+
 A local, offline-first **RAG (Retrieval-Augmented Generation) knowledge-base Q&A agent**.
 Drop your documents into a folder, ingest them into a local vector database, and
 ask questions — answers are grounded in your own knowledge base and cite their
